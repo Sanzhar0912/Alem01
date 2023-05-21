@@ -7,4 +7,5 @@ func main() {
 	b := "Sanzhar"
 	fmt.Println(a)
 	fmt.Println(b)
+	//test
 }
